@@ -31,3 +31,15 @@ function draw() {
   
 
 }
+function add()
+{
+console.log(n1+n2);  
+}
+function sub()
+{
+console.log(n1-n2);  
+}
+function mul()
+{
+console.log(n1*n2);  
+}
